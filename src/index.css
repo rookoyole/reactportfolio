@@ -4,12 +4,12 @@ main {
   padding: 50px 30px;
 }
 :root {
-  --primary: #8c54ff;
+  --primary: #7EA16B;
   --secondary: #f3a847;
-  --tertiary: #b12704;
-  --light: #fafafa;
-  --dark: #000000;
-  --darker: #111111;
+  --tertiary: #70161E;
+  --light: #C3D898;
+  --dark: #596F62;
+  --darker: #1C3144;
   --error: rgb(228, 46, 1);
   --spacing-one: calc(1rem * 0.5);
   --spacing-two: calc(1rem);
@@ -32,7 +32,7 @@ body {
   line-height: 1.5;
   font-size: 18px;
   letter-spacing: 0.1em;
-  background: var(--dark);
+  background: var(--darker);
   color: var(--light);
   font-family: 'Poiret One', cursive;
 }

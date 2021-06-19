@@ -35,10 +35,10 @@
     <img src="./public//assets/images/Profile-Pic.jpg" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Budget Tracker PWA</h3>
+  <h3 align="center">Single Page React Portfolio</h3>
 
   <p align="center">
-    UA Bootcamp - Module 19 Challenge
+    UA Bootcamp - Module 20 Challenge
         <br />
         <a href="https://github.com/rookoyole/budgettracker"><strong>Explore the docs »</strong></a>
         <br />
@@ -81,9 +81,9 @@ Features:
 <!-- PROJECT LINKS -->
 ## Project Links
 
-Repository Link: [https://github.com/rookoyole/budgettracker](https://github.com/rookoyole/budgettracker)
+Repository Link: [https://github.com/rookoyole/reactportfolio](https://github.com/rookoyole/reactportfolio)
 
-Heroku Link: [https://mysterious-anchorage-68969.herokuapp.com/](https://mysterious-anchorage-68969.herokuapp.com/)
+Deployed Link: [https://rookoyole.github.io/reactportfolio/](https://rookoyole.github.io/reactportfolio/)
 
 <!-- CONTACT -->
 ## Contact
