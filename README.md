@@ -31,7 +31,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/rookoyole/budgettracker">
+  <a href="https://github.com/rookoyole/reactportfolio">
     <img src="./public//assets/images/Profile-Pic.jpg" alt="Logo" width="80" height="80">
   </a>
 
@@ -40,14 +40,14 @@
   <p align="center">
     UA Bootcamp - Module 20 Challenge
         <br />
-        <a href="https://github.com/rookoyole/budgettracker"><strong>Explore the docs »</strong></a>
+        <a href="https://github.com/rookoyole/reactportfolio"><strong>Explore the docs »</strong></a>
         <br />
         <br />
-        <a href="https://github.com/rookoyole/budgettracker">View Demo</a>
+        <a href="https://github.com/rookoyole/reactportfolio">View Demo</a>
         ·
-        <a href="https://github.com/rookoyole/budgettracker/issues">Report Bug</a>
+        <a href="https://github.com/rookoyole/reactportfolio/issues">Report Bug</a>
         ·
-        <a href="https://github.com/rookoyole/budgettracker/issues">Request Feature</a>
+        <a href="https://github.com/rookoyole/reactportfolio/issues">Request Feature</a>
   </p>
 </p>
 
@@ -68,15 +68,15 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](public/assets/images/screenshot.png)
+[![Product Name Screen Shot][product-screenshot]](src/assets/images/screenshot.png)
 <br />
-The purpose of this project was to update an existing budget tracker application to allow for offline access and functionality. The user will be able to add expenses and deposits to their budget with or without a connection. If the user enters transactions offline, the total should be updated when they're brought back online.
+The purpose of this project was to create a single page React portfolio, showcasing the previous development projects completed as part of the Coding Bootcamp.
 
 Features:
-* IndexedDB allows for offline functionality when internet resumes
-* Web manifest to install the PWA as a standalone app
-* Mongoose validation
-* User will receive a notification that they have added an expense or deposit
+* Navbar with conditional rendering
+* About Me section desribing the creator
+* Contact section front end with email address validation
+* Downloadable PDF resume
 
 <!-- PROJECT LINKS -->
 ## Project Links
@@ -94,14 +94,14 @@ Template from: https://github.com/othneildrew/Best-README-Template/blob/master/R
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/rookoyole/budgettracker.svg?style=for-the-badge
-[contributors-url]: https://github.com/rookoyole/budgettracker/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/rookoyole/budgettracker.svg?style=for-the-badge
-[forks-url]: https://github.com/rookoyole/budgettracker/network/members
-[stars-shield]: https://img.shields.io/github/stars/rookoyole/budgettracker.svg?style=for-the-badge
-[stars-url]: https://github.com/rookoyole/budgettracker/stargazers
-[issues-shield]: https://img.shields.io/github/issues/rookoyole/budgettracker.svg?style=for-the-badge
-[issues-url]: https://github.com/rookoyole/budgettracker/issues
+[contributors-shield]: https://img.shields.io/github/contributors/rookoyole/reactportfolio.svg?style=for-the-badge
+[contributors-url]: https://github.com/rookoyole/reactportfolio/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/rookoyole/reactportfolio.svg?style=for-the-badge
+[forks-url]: https://github.com/rookoyole/reactportfolio/network/members
+[stars-shield]: https://img.shields.io/github/stars/rookoyole/reactportfolio.svg?style=for-the-badge
+[stars-url]: https://github.com/rookoyole/reactportfolio/stargazers
+[issues-shield]: https://img.shields.io/github/issues/rookoyole/reactportfolio.svg?style=for-the-badge
+[issues-url]: https://github.com/rookoyole/reactportfolio/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: www.linkedin.com/in/kyle-ryan-5b526023
-[product-screenshot]: public/assets/images/screenshot.png
+[product-screenshot]: src/assets/images/screenshot.png
