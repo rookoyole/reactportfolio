@@ -7,29 +7,94 @@ const PhotoList = ({ category }) => {
 
   const [photos] = useState([
     {
-      name: 'Grocery aisle',
+      name: 'Horiseon Site Refactor',
       category: 'portfolio',
-      description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie',
+      deployed: 'https://rookoyole.github.io/mod1seo/',
+      repo: 'https://github.com/rookoyole/mod1seo'
     },
     {
-      name: 'Grocery booth',
+      name: 'Kyle Ryans Portfolio',
       category: 'portfolio',
-      description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie',
+      deployed: 'https://rookoyole.github.io/portfolio/',
+      repo: 'https://github.com/rookoyole/portfolio'
     },
     {
-      name: 'Building exterior',
+      name: 'Password Generator',
       category: 'portfolio',
-      description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie',
+      deployed: 'https://rookoyole.github.io/passgen/',
+      repo: 'https://github.com/rookoyole/passgen'
     },
     {
-      name: 'Restaurant table',
+      name: 'Javascript Code Quiz',
       category: 'portfolio',
-      description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie',
+      deployed: 'ttps://rookoyole.github.io/codequiz/',
+      repo: 'https://github.com/rookoyole/codequiz'
     },
     {
-      name: 'Cafe interior',
+      name: 'Daily Planner',
       category: 'portfolio',
-      description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie',
+      deployed: 'https://rookoyole.github.io/planner/',
+      repo: 'https://github.com/rookoyole/planner'
+    },
+    {
+      name: 'Lets Celebrate - Date Night Idea Generator',
+      category: 'portfolio',
+      deployed: 'https://aminaf1995.github.io/Lets-Celebrate/',
+      repo: 'https://github.com/aminaf1995/Lets-Celebrate'
+    },
+    {
+      name: 'Readme Generator',
+      category: 'portfolio',
+      deployed: 'https://drive.google.com/file/d/1hCtCJSkfsTzrBTzTyjJ4mqb3K9A3dyrh/view',
+      repo: 'https://github.com/rookoyole/readme-gen'
+    },
+    {
+      name: 'Team Roster Generator',
+      category: 'portfolio',
+      deployed: 'https://drive.google.com/file/d/1gTIoc3Ha0rXYsuYLW9qufrn-VNvZNnPb/view',
+      repo: 'https://github.com/rookoyole/teamprofile'
+    },
+    {
+      name: 'Note Taker Application',
+      category: 'portfolio',
+      deployed: 'https://note-takey.herokuapp.com/',
+      repo: 'https://github.com/rookoyole/notetaker'
+    },
+    {
+      name: 'Employee Tracker Database',
+      category: 'portfolio',
+      deployed: 'https://drive.google.com/file/d/1ejhiVmS1qDTaig-aI60YD22wUw1pOEnb/view/',
+      repo: 'https://github.com/rookoyole/employeetracker'
+    },
+    {
+      name: 'E-Commerce Back End',
+      category: 'portfolio',
+      deployed: 'https://drive.google.com/file/d/1iiKo1JnaprVdBitZSKo3ptK5A2kXPftM/view',
+      repo: 'https://github.com/rookoyole/ecommerce'
+    },
+    {
+      name: 'Tech Blog Full-Stack',
+      category: 'portfolio',
+      deployed: 'https://cryptic-river-67719.herokuapp.com/',
+      repo: 'https://github.com/rookoyole/techblog'
+    },
+    {
+      name: 'SnakChat - Rare Snacks Blog',
+      category: 'portfolio',
+      deployed: 'https://lit-anchorage-48237.herokuapp.com/',
+      repo: 'https://github.com/rookoyole/snakchat'
+    },
+    {
+      name: 'NoSQL Social Network API',
+      category: 'portfolio',
+      deployed: 'https://drive.google.com/file/d/1v5RggR_w5z3xWRdPfKpx6ERJlCLwpAwu/view',
+      repo: 'https://github.com/rookoyole/social-api'
+    },
+    {
+      name: 'Budget Tracker PWA',
+      category: 'portfolio',
+      deployed: 'https://mysterious-anchorage-68969.herokuapp.com/',
+      repo: 'https://github.com/rookoyole/budgettracker'
     }
   ]);
 
