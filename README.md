@@ -32,7 +32,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/rookoyole/reactportfolio">
-    <img src="./public//assets/images/Profile-Pic.jpg" alt="Logo" width="80" height="80">
+    <img src="./src/assets/images/Profile-Pic.jpg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Single Page React Portfolio</h3>
